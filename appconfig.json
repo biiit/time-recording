@@ -7,5 +7,11 @@
   "useShellSDK": true,
   "parameters": [],
   "outletPositions": ["WFM_ACTIVITY_SIDEBAR", "SHELL_HOME_SCREEN"],
-  "optimalHeight": "500px"
+  "optimalHeight": "500px",
+  "translations": [
+    {
+      "lang": "de",
+      "name": "Zeiterfassung Planer",
+      "description": "Der Planer möchte auf der Aktivität seine Zeit erfassen"
+    }
 }
